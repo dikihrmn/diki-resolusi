@@ -1,4 +1,4 @@
 diki resolusi
   1. konsisten web prograsing 
   2. konsisten data base query language
-  3. konsisten ngoding 
+  3. konsisten belajar logic 
